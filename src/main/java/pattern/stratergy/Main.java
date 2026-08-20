@@ -1,3 +1,5 @@
+package pattern.stratergy;
+
 import pattern.stratergy.Models.Duck;
 import pattern.stratergy.Models.MallardDuck;
 import pattern.stratergy.encapsulation.impl.Flys.FlyWithWings;
